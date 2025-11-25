@@ -49,11 +49,11 @@
 <section>
   <h2>📈 Estadísticas</h2>
   <p>
-    <img alt="github stats" 
+    [<img alt="github stats" 
          src="https://github-readme-stats.vercel.app/api?username=pisure&show_icons=true&theme=radical" />
 
-    <img alt="top languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisure&layout=compact&theme=radical" />
+   <img alt="top languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisure&layout=compact&theme=radical" />](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pisure&theme=radical&hide_border=false)
   </p>
 </section>
 
