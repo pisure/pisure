@@ -10,7 +10,7 @@
   <h2>🚀 Sobre mí</h2>
   <p>
     Soy <strong>pisure</strong>, desarrollador apasionado por crear soluciones limpias y eficientes.
-    Me gusta aprender nuevas tecnologías, mejorar proyectos y compartir conocimiento en la comunidad.
+    Me gusta aprender nuevas tecnologías, mejorar proyectos tanto personales como proyectos grandes.
   </p>
 </section>
 
@@ -29,7 +29,7 @@
 <section>
   <h2>🔥 Proyectos destacados</h2>
   <ol>
-    <li><strong>Pyron Network</strong> — Red de servidores Minecraft (PotPvP, HCF). Integración de plugins y tienda (Tebex).</li>
+    <li><strong>Pyron Studio</strong> — Creacion de plugins/mods para eventos (Java). Integración de plugins y tienda (Tebex/Spigot).</li>
     <li><strong>Espectrómetro Web</strong> — Aplicación web interactiva para análisis espectral mediante cámara y procesamiento de luz.</li>
     <li><strong>QRGenerator</strong> — Generador de códigos QR con opciones avanzadas de personalización.</li>
     <li><strong>Bliss</strong> — Plataforma web para reservas de peluquerías, con panel administrativo y gestión de citas.</li>
@@ -42,8 +42,7 @@
 <section>
   <h2>📫 Cómo contactarme</h2>
   <ul>
-    <li>Email: <a href="mailto:tu-email@ejemplo.com">tu-email@ejemplo.com</a> <!-- cámbialo --></li>
-    <li>Discord: <code>pisure#0000</code> <!-- cámbialo a tu handle real --></li>
+    <li>Discord: <code>pisuree</code> <!-- cámbialo a tu handle real --></li>
   </ul>
 </section>
 
@@ -58,16 +57,6 @@
   </p>
 </section>
 
-<section>
-  <h2>🤝 ¿Quieres colaborar?</h2>
-  <p>Si tienes una idea, un proyecto o simplemente quieres charlar, abre un issue o envíame un mensaje.</p>
-</section>
-
-<section>
-  <h2>⚖️ Licencia</h2>
-  <p>Este perfil y sus contenidos están disponibles bajo la licencia que determines en tus proyectos.</p>
-</section>
-
 <footer>
-  <p align="center"><em>Archivo generado para <strong>pisure</strong> — edita lo que necesites</em></p>
+  <p align="center"><em>Archivo generado para <strong>pisure</strong></em></p>
 </footer>
