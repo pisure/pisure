@@ -6,10 +6,10 @@
 
 <!-- BOTONES DE REDES -->
 <p align="center">
-  <a href="https://instagram.com/tu_instagram" target="_blank">
+  <a href="https://www.instagram.com/ron.es4/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/tu_id_de_discord" target="_blank">
+  <a href="https://discord.com/users/pisuree" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -48,5 +48,5 @@
 </section>
 
 <footer>
-  <p align="center"><em>Archivo generado para <strong>pisure</strong></em></p>
+  <p align="center"><em>By <strong>pisure</strong></em></p>
 </footer>
