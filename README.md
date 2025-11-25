@@ -1,4 +1,4 @@
-<!-- README.md para el perfil de GitHub de `pisure`. Este archivo usa HTML dentro de Markdown. -->
+<!-- README.md para el perfil de GitHub de `pisure`. Usa HTML dentro de Markdown para mejor diseño. -->
 
 <h1 align="center">👋 Hola — soy <strong>pisure</strong></h1>
 
@@ -30,6 +30,10 @@
   <h2>🔥 Proyectos destacados</h2>
   <ol>
     <li><strong>Pyron Network</strong> — Red de servidores Minecraft (PotPvP, HCF). Integración de plugins y tienda (Tebex).</li>
+    <li><strong>Espectrómetro Web</strong> — Aplicación web interactiva para análisis espectral mediante cámara y procesamiento de luz.</li>
+    <li><strong>QRGenerator</strong> — Generador de códigos QR con opciones avanzadas de personalización.</li>
+    <li><strong>Bliss</strong> — Plataforma web para reservas de peluquerías, con panel administrativo y gestión de citas.</li>
+    <li><strong>ViasUPC</strong> — Web de artículos y recursos académicos para estudiantes de la UPC.</li>
     <li><strong>Gestor de pasajes</strong> — Aplicación OOP para venta de pasajes con múltiples estructuras de datos.</li>
     <li><strong>Plugins / Data packs</strong> — Automatizaciones y eventos personalizados (Conditional Events, ItemJoin, LuckPerms).</li>
   </ol>
@@ -38,19 +42,32 @@
 <section>
   <h2>📫 Cómo contactarme</h2>
   <ul>
-    <li>Discord: <code>pisuree</code></li>
+    <li>Email: <a href="mailto:tu-email@ejemplo.com">tu-email@ejemplo.com</a> <!-- cámbialo --></li>
+    <li>Discord: <code>pisure#0000</code> <!-- cámbialo a tu handle real --></li>
   </ul>
 </section>
 
 <section>
   <h2>📈 Estadísticas</h2>
   <p>
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=pisure&show_icons=true&theme=radical" />
-    <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisure&layout=compact&theme=radical" />
+    <img alt="github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=pisure&show_icons=true&theme=radical" />
+
+    <img alt="top languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisure&layout=compact&theme=radical" />
   </p>
 </section>
 
+<section>
+  <h2>🤝 ¿Quieres colaborar?</h2>
+  <p>Si tienes una idea, un proyecto o simplemente quieres charlar, abre un issue o envíame un mensaje.</p>
+</section>
+
+<section>
+  <h2>⚖️ Licencia</h2>
+  <p>Este perfil y sus contenidos están disponibles bajo la licencia que determines en tus proyectos.</p>
+</section>
 
 <footer>
-  <p align="center"><em>Archivo generado para <strong>pisure</strong></em></p>
+  <p align="center"><em>Archivo generado para <strong>pisure</strong> — edita lo que necesites</em></p>
 </footer>
